@@ -10,13 +10,13 @@ h2 {
 }
 p {
 	font-size: 16px;
-	color: #cdcdcd;
+	color: #FFFFFF;
 }
 .navbar {
 	margin-bottom: 0;
 }
 .jumbotron {
-	background: #CAB066;
+	background: #D5C7B4;
 	color: white;
 	text-align: center;
 }
@@ -29,16 +29,17 @@ p {
 	border: 0;
 }
 .dropdown-menu {
-	background: #2E2F31;
+	background: #FFFFFF;
 	border-radius: 0;
 	border: 0;
 }
 .navbar-inverse .navbar-nav li a {
-	color: #f7f7f7;
+	color: #FFFFFF;
 	font-size: 16px;
 }
+
 .navbar-inverse .navbar-nav li a:hover {
-	background: #27A967;
+	background: #889462;
 }
 .navbar-inverse .navbar-nav .dropdown-menu li a:hover {
 	background: #2C463C;
